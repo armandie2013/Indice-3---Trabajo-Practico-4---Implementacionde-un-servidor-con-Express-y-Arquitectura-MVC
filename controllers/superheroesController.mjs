@@ -6,7 +6,7 @@ import {
 import {
   renderizarSuperheroe,
   renderizarListaSuperheroes,
-} from "/views/responsiveViews";
+} from '../views/responseView.mjs';
 
 export function obtenerSuperheroePorIdController(req, res) {
   const { id } = req.params;
