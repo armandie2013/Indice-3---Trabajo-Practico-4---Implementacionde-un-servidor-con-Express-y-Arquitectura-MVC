@@ -1,6 +1,6 @@
 [
   {
-    "ide": 1,
+    "id": 1,
     "nombreSuperheroe": "Spiderman",
     "nombreReal": "Peter Parker",
     "nombreSociedad": "Vigilante",
